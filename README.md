@@ -1,5 +1,7 @@
 <!--Introduction-->
-<img src="assest/Augustin-software-engineer.png" alt="Augustin-lima-banner" width="100%">
+<img src="assets/Augustin-software-engineer.png" alt="Augustin-lima-banner" width="100%">
+
+
 
 <!-- ### Hi there 👋 -->
 <!--Stats-->
