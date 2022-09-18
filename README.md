@@ -15,7 +15,8 @@
   </a>
 </p>
 
-<p align="center">
+<h1 align="justify" padding='100px'>Hi 👋, I'm Augustin</h1>
+<p align="justify">
 I'm a software engineer specializing in MERN stack, MongoDB, Express, React, and Node. I am proficient in using HTML, CSS, and Javascript to build and enhance websites and web applications that impact the end-user experience.
 </p>
 
