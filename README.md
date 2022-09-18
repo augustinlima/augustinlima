@@ -23,7 +23,7 @@ In university, I studied applied linguistics, focusing on society's complex area
 </p>
 
 <!--Technologies-->
-<h1 align="center">Technologies</h1>
+<h2 align="center">Technologies</h2>
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
@@ -35,7 +35,7 @@ In university, I studied applied linguistics, focusing on society's complex area
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
         
 <!--Socials-->
-<h1 align="center">Let's Connect</h1>
+<h2 align="center">Let's Connect</h2>
 <p align="center">
   <a href="https://augustin-lima.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
