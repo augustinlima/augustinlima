@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/augustinlima" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=#1a4223style=plastic&logo=linkedin&logo-color=white"/>
   </a>
   <a href="https://twitter.com/aaugustinlima" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
