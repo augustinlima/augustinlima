@@ -97,11 +97,6 @@ In university, I studied applied linguistics, focusing on society's complex area
             <p>Project description. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
         </td>
     </tr>
-     <tr>
-        <td width="100%" valign="top">
-            <a href="#" target="_blank">See more of my project here...</a>    
-        </td>
-    </tr>
 </table>
 
 <!--Technologies-->
