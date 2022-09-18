@@ -3,8 +3,14 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=213644&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi+there%F0%9F%91%8B%2C+I'm+Augustin!;I'm+a+full+stack+software+engineer.+">
 </p>
+___
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=augustinlima&show_icons=true&locale=en&layout=compact" alt="augustinlima" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=augustinlima&show_icons=true&locale=en" alt="augustinlima" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=augustinlima&" alt="augustinlima" /></p>
+___
 <!--Technologies-->
 <h1 align="center">Technologies</h1>
 <p align="center">
