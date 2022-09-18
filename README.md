@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<h2 align="justify">Hi 👋, I'm Augustin</h2>
+<h2 align="center">Hi 👋, I'm Augustin</h2>
 <p align="justify">
 A software engineer specializing in MERN stack, MongoDB, Express, React, and Node. I am proficient in using HTML, CSS, and Javascript to build and enhance websites and web applications that impact the end-user experience. 
   
@@ -33,9 +33,7 @@ In university, I studied applied linguistics, focusing on society's complex area
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
-    
----
-    
+        
 <!--Socials-->
 <h1 align="center">Let's Connect</h1>
 <p align="center">
