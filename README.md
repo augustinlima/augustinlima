@@ -30,7 +30,7 @@ In university, I studied applied linguistics, focusing on society's complex area
             <h3 align="center">Project Title</h3>
             <br/>
             <a target="_blank" href="#">
-                <img src="https://via.placeholder.com/468x400?text=Coming+Soon" width="100%" alt="#"/>
+                <img src="https://via.placeholder.com/468x400?text=Coming+Soon" alt="#"/>
             </a>
             <br />
             <p align="center">
