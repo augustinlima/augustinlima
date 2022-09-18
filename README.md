@@ -1,13 +1,6 @@
 <!--Introduction-->
 <img src="assets/Augustin-software-engineer.png" alt="Augustin-lima-banner" width="100%">
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=213644&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi+there%F0%9F%91%8B%2C+I'm+Augustin!;I'm+a+full+stack+software+engineer.+">
-</p>
 
-<p align='center'>
-    <img src="https://github-readme-stats.vercel.app/api?username=augustinlima&show_icons=true&locale=en"/>
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=augustinlima&"/>
-</p>
 
 <!--Technologies-->
 <h1 align="center">Technologies</h1>
