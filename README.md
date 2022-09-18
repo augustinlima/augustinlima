@@ -4,10 +4,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=213644&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi+there%F0%9F%91%8B%2C+I'm+Augustin!;I'm+a+full+stack+software+engineer.+">
 </p>
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=augustinlima&show_icons=true&locale=en&layout=compact"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=augustinlima&show_icons=true&locale=en"/>
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=augustinlima&"/>
+<p align='center'>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=augustinlima&show_icons=true&locale=en&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=augustinlima&show_icons=true&locale=en"/>
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=augustinlima&"/>
 </p>
 
 <!--Technologies-->
