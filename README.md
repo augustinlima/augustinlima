@@ -30,7 +30,7 @@ In university, I studied applied linguistics, focusing on society's complex area
             <h3 align="center">Project Title</h3>
             <br/>
             <a target="_blank" href="#">
-                <img src="https://via.placeholder.com/468x400.png?text=coming+coon..." alt="#"/>
+                <img src="https://via.placeholder.com/468x400.png?text=coming+soon..." alt="#"/>
             </a>
             <br />
             <p align="center">
@@ -41,13 +41,13 @@ In university, I studied applied linguistics, focusing on society's complex area
                     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
                 </a>
             </p>
-            <p>Project Description</p>
+            <p>Project description. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
         </td>
         <td width="50%" valign="top">
             <h3 align="center">Project Title</h3>
             <br/>
             <a target="_blank" href="#">
-                <img src="https://via.placeholder.com/468x400.png?text=coming+coon..." width="100%" alt="#"/>
+                <img src="https://via.placeholder.com/468x400.png?text=coming+soon..." width="100%" alt="#"/>
             </a>
             <br />
             <p align="center">
@@ -58,7 +58,7 @@ In university, I studied applied linguistics, focusing on society's complex area
                     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
                 </a>
             </p>
-            <p>Project Description</p>
+            <p>Project description. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
         </td>
     </tr>
     <tr>
@@ -66,7 +66,7 @@ In university, I studied applied linguistics, focusing on society's complex area
             <h3 align="center">Project Title</h3>
             <br/>
             <a target="_blank" href="#">
-                <img src="https://via.placeholder.com/468x400.png?text=coming+coon..." width="100%" alt="#"/>
+                <img src="https://via.placeholder.com/468x400.png?text=coming+soon..." width="100%" alt="#"/>
             </a>
             <br />
             <p align="center">
@@ -77,7 +77,7 @@ In university, I studied applied linguistics, focusing on society's complex area
                     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
                 </a>
             </p>
-            <p>Project Description</p>
+            <p>Project description. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
         </td>
         <td width="50%" valign="top">
             <h3 align="center">Project Title</h3>
@@ -94,7 +94,7 @@ In university, I studied applied linguistics, focusing on society's complex area
                     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
                 </a>
             </p>
-            <p>Project Description</p>
+            <p>Project description. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
         </td>
     </tr>
 </table>
