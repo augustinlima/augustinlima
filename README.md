@@ -15,6 +15,9 @@
   </a>
 </p>
 
+<p align="center">
+I'm a software engineer specializing in MERN stack, MongoDB, Express, React, and Node. I am proficient in using HTML, CSS, and Javascript to build and enhance websites and web applications that impact the end-user experience.
+</p>
 
 <!--Technologies-->
 <h1 align="center">Technologies</h1>
