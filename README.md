@@ -23,11 +23,11 @@ In university, I studied applied linguistics, focusing on society's complex area
 </p>
 
 <!--Projects-->
-<h2 align="center">H&W</h2>
+<h2 align="center">Projects</h2>
 <table bordercolor="#66b2b2">
     <tr>
         <td width="50%" valign="top">
-            <h3 align="center">Project Title</h3>
+            <h3 align="center">H&W</h3>
             <br/>
             <a target="_blank" href="#">
                 <img src="assets/ezgif.com-gif-maker.webp" width="100%" alt="H&W"/>
@@ -37,7 +37,7 @@ In university, I studied applied linguistics, focusing on society's complex area
                 <a href="#" target="_blank">
                     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
                 </a>
-                <a href="#" target="_blank">
+                <a href="https://hewi.netlify.app" target="_blank">
                     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
                 </a>
             </p>
