@@ -30,7 +30,7 @@ In university, I studied applied linguistics, focusing on society's complex area
             <h3 align="center">Project Title</h3>
             <br/>
             <a target="_blank" href="#">
-                <img src="https://raw.githubusercontent.com/augustinlima/portfolio/main/images/ezgif.com-gif-maker.webp?token=GHSAT0AAAAAABYT3LJ4MKHHHRV4TIGU6RNCYZIPWMA" width="50%" alt="H&W"/>
+                <img src="https://raw.githubusercontent.com/augustinlima/portfolio/main/images/ezgif.com-gif-maker.webp?token=GHSAT0AAAAAABYT3LJ4MKHHHRV4TIGU6RNCYZIPWMA" width="100%" alt="H&W"/>
             </a>
             <br />
             <p align="center">
