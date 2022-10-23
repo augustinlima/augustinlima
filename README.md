@@ -47,7 +47,7 @@ In university, I studied applied linguistics, focusing on society's complex area
             <h3 align="center">Project Title</h3>
             <br/>
             <a target="_blank" href="#">
-                <img src="assets/2022-10-23 21-35-26.mkv" width="100%" alt="#"/>
+                <img src="assets/drink.com-gif-maker.webp" width="100%" alt="#"/>
             </a>
             <br />
             <p align="center">
