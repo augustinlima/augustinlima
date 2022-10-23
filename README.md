@@ -30,7 +30,7 @@ In university, I studied applied linguistics, focusing on society's complex area
             <h3 align="center">H&W</h3>
             <br/>
             <a target="_blank" href="#">
-                <img src="assets/ezgif.com-gif-maker.webp" width="100%" alt="H&W"/>
+                <img src="assets/willyethector.webp" width="100%" alt="H&W"/>
             </a>
             <br />
             <p align="center">
