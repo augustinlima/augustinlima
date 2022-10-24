@@ -58,7 +58,7 @@ In university, I studied applied linguistics, focusing on society's complex area
                     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
                 </a>
             </p>
-            <p>Project description. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <p>HTML, CSS3, JavaScript, API, DOM. App to help drink fans do their cocktails on their own.</p>
         </td>
     </tr>
     <tr>
