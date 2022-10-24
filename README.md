@@ -17,9 +17,7 @@
 
 <h2 align="center">Hi there 👋</h2>
 <p align="justify">
-I'm Augustin, a software engineer who works with the MERN stack, MongoDB, Express, React, and Node. I am proficient in using HTML, CSS, and Javascript to build and enhance websites and web applications that impact the end-user experience. 
-  
-In university, I studied applied linguistics, focusing on society's complex areas in which language plays a role and finding practical ways to solve problems. Having used different software and browsed several websites in my previous roles, I can think and build with the business goals and user in mind.
+I'm Augustin, a software engineer who works with the MERN stack, MongoDB, Express, React, and Node. In university, I studied applied linguistics, focusing on society's complex areas in which language plays a role and finding practical ways to solve problems. Having used different software and browsed several websites in my previous roles, I can think and build with the business goals and user in mind.
 </p>
 
 <!--Projects-->
