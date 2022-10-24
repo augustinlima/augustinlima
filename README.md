@@ -44,7 +44,7 @@ In university, I studied applied linguistics, focusing on society's complex area
             <p>HTML5, CSS3, Javascript, & Font Awesome. Website to help a local shoe seller get more exposure.</p>
         </td>
         <td width="50%" valign="top">
-            <h3 align="center">Project Title</h3>
+            <h3 align="center">Favorite Drinks</h3>
             <br/>
             <a target="_blank" href="#">
                 <img src="assets/drink.com-gif-maker.webp" width="100%" alt="#"/>
