@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<h2 align="center">Hi 👋, I'm Augustin</h2>
+<h2 align="center">Hi there 👋</h2>
 <p align="justify">
 A software engineer specializing in MERN stack, MongoDB, Express, React, and Node. I am proficient in using HTML, CSS, and Javascript to build and enhance websites and web applications that impact the end-user experience. 
   
