@@ -49,7 +49,7 @@ I'm Augustin, a software engineer who works with the MERN stack, MongoDB, Expres
             </a>
             <br />
             <p align="center">
-                <a href="#" target="_blank">
+                <a href="https://github.com/augustinlima/drink-app" target="_blank">
                     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
                 </a>
                 <a href="https://favorite-drink.netlify.app/" target="_blank">
