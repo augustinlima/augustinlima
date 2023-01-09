@@ -58,7 +58,7 @@ I'm Augustin, a software engineer who works with the MERN stack, MongoDB, Expres
             </p>
             <p>HTML, CSS3, JavaScript, API & DOM. App to help drink fans do their cocktails on their own.</p>
         </td>
-    </tr>
+    <!-- </tr>
     <tr>
         <td width="50%" valign="top">
             <h3 align="center">Project Title</h3>
@@ -94,7 +94,7 @@ I'm Augustin, a software engineer who works with the MERN stack, MongoDB, Expres
             </p>
             <p>Project description. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
         </td>
-    </tr>
+    </tr> -->
 </table>
 
 <!--Technologies-->
